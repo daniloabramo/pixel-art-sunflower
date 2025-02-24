@@ -1,0 +1,165 @@
+:root{
+    --red: red;
+    --background: rgb(227, 227, 255);
+    --black: rgb(39, 39, 39);
+    --yellow:rgb(255, 240, 36);
+    --light-brown: rgb(139, 76, 31);
+    --brown: rgb(88, 45, 14);    
+
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+    height: 100vh;
+    background: rgb(104, 104, 104);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container1{
+    width: 25rem;
+    height: 25rem;
+    background: rgb(70, 70, 70);
+    padding: 0px;
+    margin: 0px;
+}
+
+.pixel{
+    width: 1rem;
+    height: 1rem;
+}
+
+.background{
+    background: var(--background);
+}
+
+.black{
+    background: var(--black);
+}
+
+.brown{
+    background: var(--brown);
+}
+
+.light-brown{
+    background: var(--light-brown);
+}
+
+.yellow{
+    background: var(--yellow);
+}
+
+
+.line01{
+    display: flex;
+
+    .pixel::focus{
+        color: red;
+    }
+}
+
+.line02{
+    display: flex;
+}
+
+.line03{
+    display: flex;
+}
+
+.line04{
+    display: flex;
+}
+
+.line05{
+    display: flex;
+}
+
+.line06{
+    display: flex;
+}
+
+.line07{
+    display: flex;
+}
+
+.line08{
+    display: flex;
+}
+
+.line09{
+    display: flex;
+}
+
+.line10{
+    display: flex;
+}
+
+.line11{
+    display: flex;
+}
+
+.line12{
+    display: flex;
+}
+
+.line13{
+    display: flex;
+}
+
+.line14{
+    display: flex;
+}
+
+.line15{
+    display: flex;
+}
+
+.line16{
+    display: flex;
+}
+
+.line17{
+    display: flex;
+}
+
+.line18{
+    display: flex;
+}
+
+.line19{
+    display: flex;
+}
+
+.line20{
+    display: flex;
+}
+
+.line21{
+    display: flex;
+}
+
+.line22{
+    display: flex;
+}
+
+.line23{
+    display: flex;
+}
+
+.line24{
+    display: flex;
+}
+
+.line25{
+    display: flex;
+}
+
+
+
+
+
+
+
+
